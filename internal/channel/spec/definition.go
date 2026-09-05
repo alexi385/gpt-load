@@ -27,6 +27,7 @@ const (
 	NewAPI           ID = "newapi"
 	CLIProxyAPI      ID = "cliproxyapi"
 	Sub2API          ID = "sub2api"
+	Conol            ID = "conol"
 	OpenAICompatible ID = "openai_compatible"
 	DeepSeek         ID = "deepseek"
 	MoonshotAI       ID = "moonshotai"
